@@ -1,0 +1,13 @@
+
+#display{
+    background: black;
+}
+
+.none{
+    font-size: 5.0rem;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    margin: auto 0 auto 90%;
+    display: flex;  
+}

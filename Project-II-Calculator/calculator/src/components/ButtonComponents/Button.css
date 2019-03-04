@@ -1,0 +1,19 @@
+button{
+    background: white;
+    font-size: 4.0rem;
+}
+
+.med{
+    width: 75%;    
+}
+
+
+.sm {
+    width: 25%;
+}
+
+.operator{
+    background: maroon;
+    color: white;
+    width: 25%;
+}
